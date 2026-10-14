@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: ELECTRICITY_MANAGEMENT/PANDAPOWER
+# records: 5
+# head: 19d170f9e10c09a9b5d26992b39437167ec5183786b68266c73ab8fbed2469b3
+{"digest": "680091ca39223e3990805c66cbb730f97bd317ebb0968ad3326ffa1b109f56bf", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "3ae0bc32a02d59d2b772e0211e13725be418f2359c9f001a36a22cb9f1148265", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:53:02Z"}
+{"digest": "e191f5f1c14bcb1190783a0a86a4d4ea6c220f8c0e6462259f39de4f761e548c", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "83d5b360aa5387284c13fe0f87f3a0e013bcdedf182be21eb3c63e405324bd4d", "prev": "680091ca39223e3990805c66cbb730f97bd317ebb0968ad3326ffa1b109f56bf", "seq": 1, "ts": "2026-10-09T05:53:02Z"}
+{"digest": "f2be3c4505e0c8f4e1614f5830019392488c57baee8db542542659bdde382a6e", "kind": "readme", "path": "README.md", "payload_sha3": "2aecb30ee5abdf6cfc70b5ed52c397d074cdec759c49168897fbf376a6811533", "prev": "e191f5f1c14bcb1190783a0a86a4d4ea6c220f8c0e6462259f39de4f761e548c", "seq": 2, "ts": "2026-10-09T05:53:02Z"}
+{"digest": "8d3a77a17f333a9501c8d5fbab8e0697a69405165a23c074ae5665c45265a6ab", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "00beb0803e120194aa3e24947e6fd8b5ba052cdad2d423519f8aba3bf9ebfb3c", "prev": "f2be3c4505e0c8f4e1614f5830019392488c57baee8db542542659bdde382a6e", "seq": 3, "ts": "2026-10-09T05:53:02Z"}
+{"digest": "19d170f9e10c09a9b5d26992b39437167ec5183786b68266c73ab8fbed2469b3", "kind": "notice", "path": "NOTICE", "payload_sha3": "907f051f27fc9438c2d194def2ec22d65dc8634dd528af297f2eca91e674d6a2", "prev": "8d3a77a17f333a9501c8d5fbab8e0697a69405165a23c074ae5665c45265a6ab", "seq": 4, "ts": "2026-10-09T05:53:02Z"}
