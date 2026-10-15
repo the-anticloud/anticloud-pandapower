@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:88273375-33f6-5cdc-93fa-cdede38f7cb3",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-11T05:20:10Z",
+    "component": {
+      "type": "application",
+      "name": "PANDAPOWER",
+      "version": "fd296d1dd72b",
+      "bom-ref": "pkg:generic/anticloud/PANDAPOWER@fd296d1dd72b",
+      "purl": "pkg:generic/anticloud/PANDAPOWER@fd296d1dd72b",
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-3-Clause"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "fd296d1dd72b40aebc3d0b2ed74d86e54d219083"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/e2nIEE/pandapower"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
